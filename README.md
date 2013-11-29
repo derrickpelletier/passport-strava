@@ -14,4 +14,4 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
   
-  $ npm install passport-strava
+`$ npm install passport-strava`
