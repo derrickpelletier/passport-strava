@@ -1,7 +1,7 @@
 # Passport-Strava
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
-with [Strava](http://www.strava.com/) using OAuth2.
+with [Strava](http://www.strava.com/)'s [API V3](http://strava.github.io/api/) using OAuth2.
 
 I used [Passport-github](https://github.com/jaredhanson/passport-github/) as the base for this repo. Really I just changed a few things, the real work was already done.
 
